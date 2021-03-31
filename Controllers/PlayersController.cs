@@ -28,6 +28,13 @@ namespace CricMazaServerDb.Controllers
             var cricMaza21Context = _context.Players.Include(p => p.T);
             return View(await cricMaza21Context.ToListAsync());
         }
+        public IActionResult Display(int id)
+        {
+            CricMaza21Context db = new CricMaza21Context();
+            List<Players> cricMaza21Context = (List<Players>)db.Players.Where(x => x.T.Tid == id).ToList();
+            return View(cricMaza21Context);
+        }
+
 
         // GET: Players/Details/5
         public async Task<IActionResult> Details(int? id)

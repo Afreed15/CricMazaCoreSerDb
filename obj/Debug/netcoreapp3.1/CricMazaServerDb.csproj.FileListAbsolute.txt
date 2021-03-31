@@ -490,3 +490,5 @@ E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.csproj.CopyComplete
 E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.dll
 E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.pdb
 E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.genruntimeconfig.cache
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Players\Display.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PlayerProfiles\Display.cshtml.g.cs
