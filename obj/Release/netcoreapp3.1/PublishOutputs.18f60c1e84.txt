@@ -1,0 +1,196 @@
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.exe
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Aaron Finch.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\AB DE Villier.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Adam Zampa.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Chris Lynn.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Chris Morris.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\cricket-player-with-bat.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\cricket.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Cricmaza Logo.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\csk.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Dale Steyn.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Dc.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Dhawal Kulkarni.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\group.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Hardik Pandya.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\iplteams.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Ishan Kishan.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Jasprit Bumrah.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Josh Philippe.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Kieron Pollard.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Matchesicon.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\mi.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Moeen Ali.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Mohammad Siraj.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Nathan Coulter-Nile.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Navdeep Saini.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Piyush Chawla.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Quinton de Kock.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Rahul Chahar.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\rcb.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Rohit Sharma.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\rr.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Shivam Dube.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\srh.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Suryakumar Yadav.png
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\tableicon.webp
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\TrentBoult.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Umesh Yadav.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Virat Kohali.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Washington Sundar.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Images\Yuzvendra Chahal.jpg
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.runtimeconfig.json
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.pdb
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.HashCode.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Data.SqlClient.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Identity.Client.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\NuGet.Frameworks.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Collections.Immutable.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.AttributedModel.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Convention.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Hosting.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Runtime.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.TypedParts.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.Caching.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.Views.dll
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.Views.pdb
+E:\ProjectSer\obj\Release\netcoreapp3.1\PubTmp\Out\CricMazaServerDb.deps.json
