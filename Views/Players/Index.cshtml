@@ -41,8 +41,9 @@
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Pid">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Pid">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Pid">Delete</a>
+                    <a asp-action="Deatails"  asp-route-id="@item.Pid">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Pid">Delete</a>|
+                    <a asp-action="Details" asp-controller="PlayerProfiles" asp-route-id="@item.Pid"><b>View Profile</b></a>
                 </td>
             </tr>
             }
