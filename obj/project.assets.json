@@ -8474,19 +8474,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sreekanth\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mumbai\\CricMazaServerDb.csproj",
+      "projectUniqueName": "E:\\ProjectSer\\CricMazaServerDb.csproj",
       "projectName": "CricMazaServerDb",
-      "projectPath": "E:\\Mumbai\\CricMazaServerDb.csproj",
-      "packagesPath": "C:\\Users\\Sreekanth\\.nuget\\packages\\",
-      "outputPath": "E:\\Mumbai\\obj\\",
+      "projectPath": "E:\\ProjectSer\\CricMazaServerDb.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\ProjectSer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sreekanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8545,7 +8545,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
