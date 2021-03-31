@@ -9,39 +9,43 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                Name
-            </th>
-            <th>
-                picture
-            </th>
-            <th>
-                IPL Team
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Tplayer)
-            </td>
-            <td>
-                <img src="@("/Images/"+item.Img)" width="150" height="150" />
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.T.Tname)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Pid">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Pid">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Pid">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="container">
+    <table class="table table-dark table-borderless">
+        <thead>
+            <tr>
+                <th>
+                    Profile Pic
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Team
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        <img src="@("/Images/"+item.Img)" width="100" height="100" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tplayer)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.T.Tname)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Pid">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Pid">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Pid">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

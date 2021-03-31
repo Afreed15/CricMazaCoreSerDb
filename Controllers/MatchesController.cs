@@ -6,37 +6,26 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CricMazaServerDb.Models;
-using Microsoft.AspNetCore.Hosting;
-using System.IO;
 
 namespace CricMazaServerDb.Controllers
 {
-    public class PlayersController : Controller
+    public class MatchesController : Controller
     {
         private readonly CricMaza21Context _context;
-        private readonly IWebHostEnvironment _hostEnviroment;
 
-        public PlayersController(CricMaza21Context context, IWebHostEnvironment hostEnvironment)
+        public MatchesController(CricMaza21Context context)
         {
             _context = context;
-            _hostEnviroment = hostEnvironment;
         }
 
-        // GET: Players
+        // GET: Matches
         public async Task<IActionResult> Index()
         {
-            var cricMaza21Context = _context.Players.Include(p => p.T);
+            var cricMaza21Context = _context.Matches.Include(m => m.Team1Navigation).Include(m => m.Team2Navigation);
             return View(await cricMaza21Context.ToListAsync());
         }
-        public IActionResult Display(int id)
-        {
-            CricMaza21Context db = new CricMaza21Context();
-            List<Players> cricMaza21Context = db.Players.Where(x => x.T.Tid == id).ToList();
-            return View(cricMaza21Context);
-        }
 
-
-        // GET: Players/Details/5
+        // GET: Matches/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -44,49 +33,45 @@ namespace CricMazaServerDb.Controllers
                 return NotFound();
             }
 
-            var players = await _context.Players
-                .Include(p => p.T)
-                .FirstOrDefaultAsync(m => m.Pid == id);
-            if (players == null)
+            var matches = await _context.Matches
+                .Include(m => m.Team1Navigation)
+                .Include(m => m.Team2Navigation)
+                .FirstOrDefaultAsync(m => m.Mid == id);
+            if (matches == null)
             {
                 return NotFound();
             }
 
-            return View(players);
+            return View(matches);
         }
 
-        // GET: Players/Create
+        // GET: Matches/Create
         public IActionResult Create()
         {
-            ViewData["Tid"] = new SelectList(_context.Teams, "Tid", "Tname");
+            ViewData["Team1"] = new SelectList(_context.Teams, "Tid", "Tname");
+            ViewData["Team2"] = new SelectList(_context.Teams, "Tid", "Tname");
             return View();
         }
 
-        // POST: Players/Create
+        // POST: Matches/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Pid,Tplayer,Img,Tid,PPicFile")] Players players)
+        public async Task<IActionResult> Create([Bind("Mid,Team1,Team2,MatchList,Mdate,Mtime,Venue")] Matches matches)
         {
             if (ModelState.IsValid)
             {
-                string rootPath = _hostEnviroment.WebRootPath;
-
-                string fileName = Path.GetFileName(players.PPicFile.FileName);
-                string pPath = Path.Combine(rootPath + "/Images/", fileName);
-                players.Img = fileName;
-                var filStream = new FileStream(pPath, FileMode.Create);
-                await players.PPicFile.CopyToAsync(filStream);
-                _context.Add(players);
+                _context.Add(matches);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Tid"] = new SelectList(_context.Teams, "Tid", "Tname", players.Tid);
-            return View(players);
+            ViewData["Team1"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team1);
+            ViewData["Team2"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team2);
+            return View(matches);
         }
 
-        // GET: Players/Edit/5
+        // GET: Matches/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -94,23 +79,24 @@ namespace CricMazaServerDb.Controllers
                 return NotFound();
             }
 
-            var players = await _context.Players.FindAsync(id);
-            if (players == null)
+            var matches = await _context.Matches.FindAsync(id);
+            if (matches == null)
             {
                 return NotFound();
             }
-            ViewData["Tid"] = new SelectList(_context.Teams, "Tid", "Tname", players.Tid);
-            return View(players);
+            ViewData["Team1"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team1);
+            ViewData["Team2"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team2);
+            return View(matches);
         }
 
-        // POST: Players/Edit/5
+        // POST: Matches/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Pid,Tplayer,Img,Tid")] Players players)
+        public async Task<IActionResult> Edit(int id, [Bind("Mid,Team1,Team2,MatchList,Mdate,Mtime,Venue")] Matches matches)
         {
-            if (id != players.Pid)
+            if (id != matches.Mid)
             {
                 return NotFound();
             }
@@ -119,12 +105,12 @@ namespace CricMazaServerDb.Controllers
             {
                 try
                 {
-                    _context.Update(players);
+                    _context.Update(matches);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!PlayersExists(players.Pid))
+                    if (!MatchesExists(matches.Mid))
                     {
                         return NotFound();
                     }
@@ -135,11 +121,12 @@ namespace CricMazaServerDb.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Tid"] = new SelectList(_context.Teams, "Tid", "Tname", players.Tid);
-            return View(players);
+            ViewData["Team1"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team1);
+            ViewData["Team2"] = new SelectList(_context.Teams, "Tid", "Tname", matches.Team2);
+            return View(matches);
         }
 
-        // GET: Players/Delete/5
+        // GET: Matches/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -147,31 +134,32 @@ namespace CricMazaServerDb.Controllers
                 return NotFound();
             }
 
-            var players = await _context.Players
-                .Include(p => p.T)
-                .FirstOrDefaultAsync(m => m.Pid == id);
-            if (players == null)
+            var matches = await _context.Matches
+                .Include(m => m.Team1Navigation)
+                .Include(m => m.Team2Navigation)
+                .FirstOrDefaultAsync(m => m.Mid == id);
+            if (matches == null)
             {
                 return NotFound();
             }
 
-            return View(players);
+            return View(matches);
         }
 
-        // POST: Players/Delete/5
+        // POST: Matches/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var players = await _context.Players.FindAsync(id);
-            _context.Players.Remove(players);
+            var matches = await _context.Matches.FindAsync(id);
+            _context.Matches.Remove(matches);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool PlayersExists(int id)
+        private bool MatchesExists(int id)
         {
-            return _context.Players.Any(e => e.Pid == id);
+            return _context.Matches.Any(e => e.Mid == id);
         }
     }
 }

@@ -492,3 +492,13 @@ E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.pdb
 E:\ProjectSer\obj\Debug\netcoreapp3.1\CricMazaServerDb.genruntimeconfig.cache
 E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Players\Display.cshtml.g.cs
 E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PlayerProfiles\Display.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PointsTables\Create.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PointsTables\Delete.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PointsTables\Details.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PointsTables\Edit.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\PointsTables\Index.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Create.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Delete.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Details.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Edit.cshtml.g.cs
+E:\ProjectSer\obj\Debug\netcoreapp3.1\Razor\Views\Matches\Index.cshtml.g.cs
