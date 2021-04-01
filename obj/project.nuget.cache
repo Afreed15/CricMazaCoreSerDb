@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgXNGWtaNwNVFfF7EWe74V5uFf+naP9HJY+oK40E6vc5PR23Ocqg46gW6fIo4TIrXO1bnmDspDW6aDknX4Aueg==",
+  "dgSpecHash": "JqdDMgbn7F8nUChXbzeI0iewSLVLPyfJuLD/YYwaM3zamyaWwsAkYR0DYdC+wwF9QSvHABkv1NgRmLcD8jSuqQ==",
   "success": true,
-  "projectFilePath": "E:\\ProjectSer\\CricMazaServerDb.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

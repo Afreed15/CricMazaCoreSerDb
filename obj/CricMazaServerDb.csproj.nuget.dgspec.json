@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectSer\\CricMazaServerDb.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj": {}
   },
   "projects": {
-    "E:\\ProjectSer\\CricMazaServerDb.csproj": {
+    "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectSer\\CricMazaServerDb.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj",
         "projectName": "CricMazaServerDb",
-        "projectPath": "E:\\ProjectSer\\CricMazaServerDb.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectSer\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\gitcheck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
