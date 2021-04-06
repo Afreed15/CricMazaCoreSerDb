@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj": {}
+    "C:\\Users\\Sreekanth\\OneDrive\\Desktop\\ProjectCoforge\\MVCApp\\CricMazaServerDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj": {
+    "C:\\Users\\Sreekanth\\OneDrive\\Desktop\\ProjectCoforge\\MVCApp\\CricMazaServerDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj",
+        "projectUniqueName": "C:\\Users\\Sreekanth\\OneDrive\\Desktop\\ProjectCoforge\\MVCApp\\CricMazaServerDb.csproj",
         "projectName": "CricMazaServerDb",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\gitcheck\\CricMazaServerDb.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\gitcheck\\obj\\",
+        "projectPath": "C:\\Users\\Sreekanth\\OneDrive\\Desktop\\ProjectCoforge\\MVCApp\\CricMazaServerDb.csproj",
+        "packagesPath": "C:\\Users\\Sreekanth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sreekanth\\OneDrive\\Desktop\\ProjectCoforge\\MVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sreekanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
